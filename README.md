@@ -1,1 +1,1 @@
-# litecode-practice
+# leetcode-practice
